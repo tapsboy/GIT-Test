@@ -7,6 +7,6 @@ python:
 script: nosetests unit_test.py
 
 notifications:
-  email: false
+  email:
   - tapsboy@gmail.com
   
