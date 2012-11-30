@@ -4,7 +4,7 @@ python:
   - "2.7"
 
 # command to run tests
-script: nosetests
+script: nosetests unit_test.py
 
 notifications:
   email: false
